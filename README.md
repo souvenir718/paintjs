@@ -1,5 +1,5 @@
 # paintjs
-Painting Board made with Vanilla JS
+[Painting Board made with Vanilla JS](https://nomadcoders.co/javascript-for-beginners-2/lobby)
 
 
 ### #1 SETUP + STYLES
