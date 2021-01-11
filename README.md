@@ -4,17 +4,17 @@
 
 ### #1 SETUP + STYLES
 
-1.0 Project Setup
+1.0 ~~Project Setup~~
 
-1.1 Styles part One
+1.1 ~~Styles part One~~
 
-1.2 Styles part Two
+1.2 ~~Styles part Two~~
 
 ### #2 PAINTJS
 
-2.0 Canvas Events
+2.0 ~~Canvas Events~~
 
-2.1 2D Context
+2.1 ~~2D Context~~
 
 2.2 Recap!
 
