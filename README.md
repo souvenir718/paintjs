@@ -32,6 +32,7 @@
 `SAVE` 버튼으로 자신의 그림을 .png 파일로 저장할 수 있습니다! 😎
 
 
+### [🔮 실행화면 ](https://souvenir718.github.io/paintjs/)
 
 
 ### 🏆[Certificate](https://github.com/souvenir718/TIL/blob/master/Certificate/%EB%B0%94%EB%8B%90%EB%9D%BC%20JS%EB%A1%9C%20%EA%B7%B8%EB%A6%BC%ED%8C%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf)
